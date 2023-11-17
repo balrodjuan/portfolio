@@ -5,5 +5,7 @@ balrodjuan.github.io/portfolio
 
 
 # Proyectos
-- [agregaciones en Pandas](agregaciones/img/4_1.png)
+- [agregaciones en Pandas](agregaciones/pdf)
+-
+- <img src=>
 - 
